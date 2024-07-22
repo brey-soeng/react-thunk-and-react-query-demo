@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "bc5a",
+      "name": "Felix",
+      "age": 30
+    },
+    {
+      "id": "053b",
+      "name": "Felix",
+      "age": 30
+    },
+    {
+      "id": "246b",
+      "name": "Felix",
+      "age": 30
+    },
+    {
+      "id": "afb9",
+      "name": "Felix",
+      "age": 30
+    }
+  ],
+  "roles": [
+    {
+      "name": "Yellow world",
+      "id": "28f7"
+    },
+    {
+      "name": "Yellow world",
+      "id": "e428"
+    },
+    {
+      "name": "Yellow world",
+      "id": "604d"
+    },
+    {
+      "name": "Yellow world",
+      "id": "1434"
+    },
+    {
+      "name": "Yellow world",
+      "id": "343e"
+    },
+    {
+      "name": "Yellow world",
+      "id": "a8cf"
+    },
+    {
+      "name": "Yellow world",
+      "id": "fe7b"
+    }
+  ]
+}
